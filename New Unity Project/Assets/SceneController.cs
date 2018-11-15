@@ -7,6 +7,7 @@ public class SceneController : MonoBehaviour {
 
 	// Camera used for tap input raycasting.
 	public Camera firstPersonCamera;
+	public ScoreboardController scoreboard;
 	// Use this for initialization
 	void Start () {
 		QuitOnConnectionErrors ();
@@ -67,7 +68,7 @@ public class SceneController : MonoBehaviour {
 		void SetSelectedPlane (DetectedPlane selectedPlane)
 	{
 	    Debug.Log ("Selected plane centered at " + selectedPlane.CenterPose.position);
+			// Add to the end of SetSelectedPlane.
+			scoreboard.SetSelectedPlane(selectedPlane);
 	}
-
-
 }

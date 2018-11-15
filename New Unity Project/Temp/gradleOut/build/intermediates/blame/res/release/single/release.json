@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_app_banner.png.flat",
+        "source": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "N:\\Fourth Year\\ARUnity1\\New Unity Project\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\N00150623\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\a8a1781add6d07b82d8d9a875d08a56d\\res\\layout\\__arcore_education.xml"
+    }
+]
